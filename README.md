@@ -1,4 +1,4 @@
-# Sales Forecasting using Advanced-Models
+# Sales Forecasting using Advanced Models
 In this project, I will use advanced forecasting models to predict future sales based on a publicly available retail dataset with over 500,000 records. Specifically, I will use LSTM and CNN-LSTM models to make predictions and evaluate their performance using metrics such as root mean squared error (RMSE).
 
 ## Dataset
